@@ -1,0 +1,4 @@
+/* home.wxss */
+.home{
+  color: red
+}
